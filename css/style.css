@@ -595,5 +595,5 @@ section .bwt-section-title {
 /* CRCL */
 .right-text {
   visibility: hidden !important;
-  display: none !important;
+  display: none !important;  
 }
