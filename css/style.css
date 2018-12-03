@@ -238,7 +238,7 @@ header {
   width: 100%;
   min-height: 100%;
   overflow-y: hidden;
-  background: url("../images/header-bg.jpg");
+  background: url("../images/header-bg.png");
   background-size:100%;
   color: white;
 }
@@ -590,4 +590,10 @@ section .bwt-section-title {
     font-size: 22px;
 }
 
+}
+
+/* CRCL */
+.right-text {
+  visibility: hidden !important;
+  display: none !important;
 }
