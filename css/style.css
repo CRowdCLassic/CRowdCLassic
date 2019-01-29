@@ -364,7 +364,7 @@ section.bwt-buyrate .bwt-section-title{
 section.bwt-buyrate .bdr{ border:2px solid #fff; background:#fff; border-radius:5px; padding:30px 20px; margin:10px 0 0 0; }
 section.bwt-buyrate h2{ font-size:32px; font-weight:600; color:#f39c12; text-transform:uppercase; letter-spacing: 1px;border-bottom: 1px dashed #f39c12;padding-bottom: 15px;}
 section.bwt-buyrate .image{ background:#fff; width:60%; margin:10px auto; padding: 10px 20px; border-radius:5px;}
-section.bwt-buyrate p{ font-size:16px; font-weight:400; color:#555; line-height: 30px;margin: 10px 0 0 0;}
+section.bwt-buyrate p{ font-size:16px; font-weight:400; color:#555; line-height: 30px;margin: 10px 0 0 0; text-align: left !important;}
 section.bwt-buyrate a{ display:inline-block; background:#f39c12; color:#fff; padding:13px 20px; margin:25px 0 0 0; text-transform:uppercase; font-weight:300; border-radius:3px; height:50px; font-size:16px; letter-spacing:1px; }
 section.bwt-buyrate a:hover{ background:#333; color:#fff; }
 
